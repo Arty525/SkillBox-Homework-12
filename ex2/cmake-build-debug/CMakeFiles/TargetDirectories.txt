@@ -1,0 +1,3 @@
+D:/RTY/GITHUB/Repositories/SkillBox-Homework-12/ex2/cmake-build-debug/CMakeFiles/ex2.dir
+D:/RTY/GITHUB/Repositories/SkillBox-Homework-12/ex2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/RTY/GITHUB/Repositories/SkillBox-Homework-12/ex2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
