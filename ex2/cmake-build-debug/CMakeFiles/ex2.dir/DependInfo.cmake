@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/RTY/GITHUB/Repositories/SkillBox-Homework-12/ex2/ex2.cpp" "D:/RTY/GITHUB/Repositories/SkillBox-Homework-12/ex2/cmake-build-debug/CMakeFiles/ex2.dir/ex2.cpp.obj"
+  "C:/github/repositories/SkillBox-Homework-12/ex2/ex2.cpp" "C:/github/repositories/SkillBox-Homework-12/ex2/cmake-build-debug/CMakeFiles/ex2.dir/ex2.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
