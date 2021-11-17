@@ -6,7 +6,6 @@ int main() {
 	float number;
 
 	cout << "Input 15 numbers: " << endl;
-	//Input values
 	for (int i = 0; i != 15; ++i) {
 		cout << i + 1 << ") ";
 		cin >> number;
@@ -23,6 +22,5 @@ int main() {
 			}
 		}
 	}
-	//Searching minimal value
 	for (int i = 0; i != 15; ++i) cout << numbers[i] << endl;
 }
